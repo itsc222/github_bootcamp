@@ -4,4 +4,4 @@
 
 ### Josef Fruehwald
 
-- (Info)[people/josef-fruehwald.md]
+- [Info](people/josef-fruehwald.md)
