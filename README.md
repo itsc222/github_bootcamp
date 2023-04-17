@@ -8,6 +8,9 @@ A github repo for practicing git processes
 
 [here is fake-ian](fake-ian.md)
 
+## Now check out Real Ian
+[This is the real me](people/ian.md)
+
 ## find out who is here
 
 [who_is_here anyways?](who_is_here.md)
