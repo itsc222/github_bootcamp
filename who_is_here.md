@@ -8,4 +8,4 @@
 
 ### Ian Schneider
 
--[Info](people/ian.md)
+- [Info](people/ian.md)
